@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+}
+
+h1 {
+  display: inline-flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+span #navigation {
+  diaplay: inline-block;
+}
